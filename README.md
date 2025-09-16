@@ -25,5 +25,4 @@ print("Ravi's Balance after interest:", ravi.get_balance())
 - Test functions for edge cases included (see below)
 - Modular design: customize interest rates, overdraft limits
 
-## Test Functions: Ensuring Safety
 
